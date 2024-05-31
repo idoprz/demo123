@@ -1,0 +1,6 @@
+ID;purchaseValue;rewardPoints;selectedProduct;customer_ID
+b285e0dc-3e87-498c-8d9d-3076897feecb;100;10;Laptop;b285e0dc-3e87-498c-8d9d-3076897feecb
+8f4854ca-b811-40d0-8596-18785ada86ad;50;5;Phone;b285e0dc-3e87-498c-8d9d-3076897feecb
+3dd887ab-adaf-4d3c-b549-ee09de0a34dc;200;20;TV;8f4854ca-b811-40d0-8596-18785ada86ad
+9a42f73d-180f-4f27-a0cb-0698d05c2556;150;15;Headphones;3dd887ab-adaf-4d3c-b549-ee09de0a34dc
+c6c917f4-b2c9-4726-89f4-a5f3b5af9b09;300;30;Tablet;9a42f73d-180f-4f27-a0cb-0698d05c2556
